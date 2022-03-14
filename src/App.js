@@ -6,6 +6,17 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <p>
+        <a
+          href="https://github.com/KayleeBeyene/weather-react"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source
+        </a>
+        {""}
+        code
+      </p>
     </div>
   );
 }
